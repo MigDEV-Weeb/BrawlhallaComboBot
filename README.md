@@ -1,5 +1,9 @@
 # BrawlhallaComboBot
 
+Currently not working, because I have to make a DLL ^^
+
+Soon more updates!
+
 THIS PROJECT IS WORK IN PROGRESS!
 
 A Brawlhalla Combo Bot written in C++
